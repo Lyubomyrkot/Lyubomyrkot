@@ -62,26 +62,15 @@
 ## 📊 GitHub статистика
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lyubomyrkot&show_icons=true&theme=tokyonight&locale=ua" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lyubomyrkot&show_icons=true&theme=tokyonight&locale=ua" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lyubomyrkot&show_icons=true&locale=ua&layout=compact&theme=tokyonight" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyubomyrkot&layout=compact&theme=tokyonight&locale=ua" alt="Top Languages" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lyubomyrkot&theme=tokyonight" alt="streak-stats" />
+  <img src="https://streak-stats.demolab.com?user=lyubomyrkot&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
-
-## ⚡ Мій фокус зараз
-
-```python
-class Lyubomyr:
-    def __init__(self):
-        self.code = ["Python", "HTML", "CSS"]
-        self.tools = ["PyQt6", "Figma", "GitHub"]
-        self.goal = "Become better every day 🚀"
-
-me = Lyubomyr()
