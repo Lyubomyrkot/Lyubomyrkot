@@ -59,18 +59,9 @@
 
 ---
 
-## 📊 GitHub статистика
+## 📊 Статистика GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lyubomyrkot&show_icons=true&theme=tokyonight&locale=ua" alt="GitHub Stats" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=denvercoder1&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyubomyrkot&layout=compact&theme=tokyonight&locale=ua" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=lyubomyrkot&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
 ---
